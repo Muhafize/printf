@@ -1,6 +1,5 @@
 #include "main.h"
 /************************* WRITE HANDLE *************************/
-
 /**
  * handle_write_char - Prints a string
  * @c: char types.
@@ -23,25 +22,17 @@ int i = 0;
 
 char padd = ' ';
 
-
-
 UNUSED(precision);
 
 UNUSED(size);
-
-
 
 if (flags & F_ZERO)
 
 padd = '0';
 
-
-
 buffer[i++] = c;
 
 buffer[i] = '\0';
-
-
 
 if (width > 1)
 
