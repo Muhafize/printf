@@ -102,4 +102,4 @@ Tasks
 - All the above options work well together.
 Authors:
 Muhafiz Ahmed: muhafizahmede@gmail.com
-Victor Adindu: Vick4pool@yahoo.com
+Victor Adindu: adindu.victor@yahoo.com
